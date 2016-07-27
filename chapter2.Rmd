@@ -5,7 +5,7 @@ description : "Four exercises will discuss the usefulness and techniques in char
 framework   : datacamp
 mode        : selfcontained
 
---- type:SwirlExercise lang:r xp:250 skills:1
+--- type:SwirlExercise lang:r xp:250 skills:1 key:27b9325522
 ## Expectations
 
 *** =swirl_course
@@ -14,7 +14,7 @@ Statistical Inference
 *** =swirl_lesson
 Expectations
 
---- type:SwirlExercise lang:r xp:250 skills:1
+--- type:SwirlExercise lang:r xp:250 skills:1 key:71d544f2db
 ## Variance
 
 *** =swirl_course
@@ -23,7 +23,7 @@ Statistical Inference
 *** =swirl_lesson
 Variance
 
---- type:SwirlExercise lang:r xp:250 skills:1
+--- type:SwirlExercise lang:r xp:250 skills:1 key:7bc797dedc
 ## CommonDistros
 
 *** =swirl_course
@@ -32,7 +32,7 @@ Statistical Inference
 *** =swirl_lesson
 CommonDistros
 
---- type:SwirlExercise lang:r xp:250 skills:1
+--- type:SwirlExercise lang:r xp:250 skills:1 key:088134903c
 ## Asymptotics
 
 *** =swirl_course
