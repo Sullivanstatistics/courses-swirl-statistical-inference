@@ -5,7 +5,7 @@ description : "Three exercises will detail the statistical methods for dealing w
 framework   : datacamp
 mode        : selfcontained
 
---- type:SwirlExercise lang:r xp:250 skills:1
+--- type:SwirlExercise lang:r xp:250 skills:1 key:26ac464285
 ## T Confidence Intervals
 
 *** =swirl_course
@@ -14,7 +14,7 @@ Statistical Inference
 *** =swirl_lesson
 T Confidence Intervals
 
---- type:SwirlExercise lang:r xp:250 skills:1
+--- type:SwirlExercise lang:r xp:250 skills:1 key:20de108948
 ## Hypothesis Testing
 
 *** =swirl_course
@@ -23,7 +23,7 @@ Statistical Inference
 *** =swirl_lesson
 Hypothesis Testing
 
---- type:SwirlExercise lang:r xp:250 skills:1
+--- type:SwirlExercise lang:r xp:250 skills:1 key:2130529b34
 ## P Values
 
 *** =swirl_course
