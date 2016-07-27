@@ -5,7 +5,7 @@ description : "In four exercises you will briefly be introduced to the basics of
 framework   : datacamp
 mode        : selfcontained
 
---- type:SwirlExercise lang:r xp:250 skills:1
+--- type:SwirlExercise lang:r xp:250 skills:1 key:f97cf18645
 ## Introduction
 
 *** =swirl_course 
@@ -14,7 +14,7 @@ Statistical Inference
 *** =swirl_lesson
 Introduction
 
---- type:SwirlExercise lang:r xp:250 skills:1
+--- type:SwirlExercise lang:r xp:250 skills:1 key:282461984e
 ## Probability1
 
 *** =swirl_course
@@ -23,7 +23,7 @@ Statistical Inference
 *** =swirl_lesson
 Probability1
 
---- type:SwirlExercise lang:r xp:250 skills:1
+--- type:SwirlExercise lang:r xp:250 skills:1 key:a7e3a6ba58
 ## Probability2
 
 *** =swirl_course
@@ -32,7 +32,7 @@ Statistical Inference
 *** =swirl_lesson
 Probability2
 
---- type:SwirlExercise lang:r xp:250 skills:1
+--- type:SwirlExercise lang:r xp:250 skills:1 key:d3714cee52
 ## ConditionalProbability
 
 *** =swirl_course
