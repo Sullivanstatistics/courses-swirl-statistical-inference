@@ -1,0 +1,33 @@
+---
+title_meta  : Chapter 3
+title       : Confidence Intervals
+description : "Three exercises will detail the statistical methods for dealing with small datasets, specifically the Student's or Gosset's t distribution and t confidence intervals."
+framework   : datacamp
+mode        : selfcontained
+
+--- type:SwirlExercise lang:r xp:250 skills:1
+## T Confidence Intervals
+
+*** =swirl_course
+Statistical Inference
+
+*** =swirl_lesson
+T Confidence Intervals
+
+--- type:SwirlExercise lang:r xp:250 skills:1
+## Hypothesis Testing
+
+*** =swirl_course
+Statistical Inference
+
+*** =swirl_lesson
+Hypothesis Testing
+
+--- type:SwirlExercise lang:r xp:250 skills:1
+## P Values
+
+*** =swirl_course
+Statistical Inference
+
+*** =swirl_lesson
+P Values

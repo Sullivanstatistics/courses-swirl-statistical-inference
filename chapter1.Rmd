@@ -1,0 +1,42 @@
+---
+title_meta  : Chapter 1
+title       : Introduction to Probability
+description : "In four exercises you will briefly be introduced to the basics of statistical inference, the process of drawing conclusions about a population using noisy statistical data where uncertainty must be accounted for. You will review basic ideas of probability, the study of quantifying the likelihood of particular events occurring."
+framework   : datacamp
+mode        : selfcontained
+
+--- type:SwirlExercise lang:r xp:250 skills:1
+## Introduction
+
+*** =swirl_course 
+Statistical Inference
+
+*** =swirl_lesson
+Introduction
+
+--- type:SwirlExercise lang:r xp:250 skills:1
+## Probability1
+
+*** =swirl_course
+Statistical Inference
+
+*** =swirl_lesson
+Probability1
+
+--- type:SwirlExercise lang:r xp:250 skills:1
+## Probability2
+
+*** =swirl_course
+Statistical Inference
+
+*** =swirl_lesson
+Probability2
+
+--- type:SwirlExercise lang:r xp:250 skills:1
+## ConditionalProbability
+
+*** =swirl_course
+Statistical Inference
+
+*** =swirl_lesson
+ConditionalProbability

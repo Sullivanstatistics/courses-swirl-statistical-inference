@@ -1,0 +1,42 @@
+---
+title_meta  : Chapter 2
+title       : Expectation and Variance
+description : "Four exercises will discuss the usefulness and techniques in characterizing expected values and variance."
+framework   : datacamp
+mode        : selfcontained
+
+--- type:SwirlExercise lang:r xp:250 skills:1
+## Expectations
+
+*** =swirl_course
+Statistical Inference
+
+*** =swirl_lesson
+Expectations
+
+--- type:SwirlExercise lang:r xp:250 skills:1
+## Variance
+
+*** =swirl_course
+Statistical Inference
+
+*** =swirl_lesson
+Variance
+
+--- type:SwirlExercise lang:r xp:250 skills:1
+## CommonDistros
+
+*** =swirl_course
+Statistical Inference
+
+*** =swirl_lesson
+CommonDistros
+
+--- type:SwirlExercise lang:r xp:250 skills:1
+## Asymptotics
+
+*** =swirl_course
+Statistical Inference
+
+*** =swirl_lesson
+Asymptotics

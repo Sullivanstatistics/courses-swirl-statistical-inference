@@ -1,0 +1,13 @@
+id: 1027
+title: Statistical Inference with swirl
+author_field: swirl + DataCamp
+author_bio: swirl teaches you R programming and data science interactively, at your
+  own pace, and right in the R console! DataCamp makes it easy to share and take swirl
+  courses by hosting them in an in-browser R environment.
+description: This course contains all of the lessons from swirl's Statistical Inference Course. Learn about probability, confidence intervals, and sampling all within RStudio.
+chapters:
+  chapter1.Rmd: 2644
+  chapter2.Rmd: 2645
+  chapter3.Rmd: 2646
+  chapter4.Rmd: 2647
+

@@ -1,0 +1,33 @@
+---
+title_meta  : Chapter 4
+title       : Power and Sampling
+description : "These three exercises will discuss how to calculate and utilize POWER, which is the probability of rejecting the null hypothesis when it is false."
+framework   : datacamp
+mode        : selfcontained
+
+--- type:SwirlExercise lang:r xp:250 skills:1
+## Power
+
+*** =swirl_course
+Statistical Inference
+
+*** =swirl_lesson
+Power
+
+--- type:SwirlExercise lang:r xp:250 skills:1
+## Multiple Testing
+
+*** =swirl_course
+Statistical Inference
+
+*** =swirl_lesson
+Multiple Testing
+
+--- type:SwirlExercise lang:r xp:250 skills:1
+## Resampling
+
+*** =swirl_course
+Statistical Inference
+
+*** =swirl_lesson
+Resampling
