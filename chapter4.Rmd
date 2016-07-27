@@ -5,7 +5,7 @@ description : "These three exercises will discuss how to calculate and utilize P
 framework   : datacamp
 mode        : selfcontained
 
---- type:SwirlExercise lang:r xp:250 skills:1
+--- type:SwirlExercise lang:r xp:250 skills:1 key:e6c735ea1d
 ## Power
 
 *** =swirl_course
@@ -14,7 +14,7 @@ Statistical Inference
 *** =swirl_lesson
 Power
 
---- type:SwirlExercise lang:r xp:250 skills:1
+--- type:SwirlExercise lang:r xp:250 skills:1 key:ea03cc4880
 ## Multiple Testing
 
 *** =swirl_course
@@ -23,7 +23,7 @@ Statistical Inference
 *** =swirl_lesson
 Multiple Testing
 
---- type:SwirlExercise lang:r xp:250 skills:1
+--- type:SwirlExercise lang:r xp:250 skills:1 key:4e04afba72
 ## Resampling
 
 *** =swirl_course
